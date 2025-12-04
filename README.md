@@ -45,8 +45,14 @@ We plotted:
 1. GDP vs Year:
   Comparison across measures (CGDPo, CGDPe, RGDPo, RGDPe)
 
+    ![GDP vs Year](Plots/USA_RGDPe_RGDPo.png)
+    ![GDP growth](Plots/USA_CGDPo_log_growth.png)
+    
+  
+
 2. Policy Function Plot:
   Optimal consumption vs output/capital showing how the policy reacts to state changes. This helped verify economic interpretation before solving the model.
+    ![GDP vs Con](Plots/USA_con.png)
 
 
 ## The Economic Model

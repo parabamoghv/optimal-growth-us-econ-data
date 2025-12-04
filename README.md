@@ -52,7 +52,8 @@ We plotted:
 
 2. Policy Function Plot:
   Optimal consumption vs output/capital showing how the policy reacts to state changes. This helped verify economic interpretation before solving the model.
-    ![GDP vs Con](Plots/USA_con.png)
+
+    ![GDP vs Con](Plots/USA_GDP_con.png)
 
 
 ## The Economic Model
